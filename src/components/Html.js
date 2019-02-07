@@ -1,11 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const Html = ({ children, scripts, initialState }) => (
+const Html = ({ styles, children, scripts, initialState }) => (
   <html>
     <head>
       <meta charSet="UTF-8" />
       <title>Server side rendered app!</title>
+      {styles}
     </head>
     <body>
       <div id="app" dangerouslySetInnerHTML={{ __html: children }} />
