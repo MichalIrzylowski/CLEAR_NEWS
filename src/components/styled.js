@@ -20,15 +20,14 @@ export const Menu = styled.ul`
   display: flex;
   list-style-type: none;
   align-items: center;
+  justify-content: space-between;
+  width: ${props => props.width};
 `;
 
 export const MenuItem = styled.li`
   text-transform: ${props => (props.uppercase ? "uppercase" : "none")};
   font-size: ${props => (props.mainMenuItem ? "14px" : "12px")};
   cursor: pointer;
-  &:not(:first-child) {
-    margin-left: ${props => (props.mainMenuItem ? "45px" : "30px")};
-  }
 `;
 
 export const StyledLink = styled(Link)`
@@ -95,4 +94,30 @@ export const SliderRightArrow = styled.img`
   right: 70px;
   top: 50%;
   transform: translateY(-50%);
+`;
+
+export const Abstract = styled.div`
+  height: 160px;
+  width: 600px;
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+`;
+
+export const Author = styled.h4`
+  position: absolute;
+  top: 16px;
+  left: 100px;
+  font-weight: 400;
+  font-size: 14px;
+`;
+
+export const AbstractContent = styled.p`
+  width: 400px;
+  position: absolute;
+  left: 100px;
+  top: 48px;
+  font-size: 20px;
+  font-weight: 600;
 `;

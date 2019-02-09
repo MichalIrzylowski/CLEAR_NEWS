@@ -9,7 +9,7 @@ import tw from "../images/tw.png";
 export default () => {
   return (
     <Header>
-      <Menu>
+      <Menu width="475px">
         <MenuItem>
           <StyledLink to="/About">About</StyledLink>
         </MenuItem>
@@ -26,7 +26,7 @@ export default () => {
           <StyledLink to="/Contact">Contact</StyledLink>
         </MenuItem>
       </Menu>
-      <Menu>
+      <Menu width="70px;">
         <MenuItem>
           <StyledLink to="/facebook">
             <img src={fb} alt="facebook-icon" />

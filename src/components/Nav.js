@@ -17,7 +17,7 @@ export default class MainMenu extends Component {
   render() {
     return (
       <Nav>
-        <Menu>
+        <Menu width="970px">
           <Active position={this.state.active} />
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
             Home
