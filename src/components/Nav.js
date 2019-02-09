@@ -1,0 +1,53 @@
+import React, { Component } from "react";
+import { Nav, Menu, MenuItem } from "./styled";
+import search from "../images/search.png";
+import { Active } from "./styled";
+
+export default class MainMenu extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { active: { x: 0, width: 0 } };
+  }
+
+  activateMenu = e => {
+    const { x, width } = e.target.getBoundingClientRect();
+    this.setState({ active: { x, width } });
+  };
+
+  render() {
+    return (
+      <Nav>
+        <Menu>
+          <Active position={this.state.active} />
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Home
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Culture
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Entertainment
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Politics
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Sports
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Worldwide
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Innovation
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            Education
+          </MenuItem>
+          <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
+            <img src={search} />
+          </MenuItem>
+        </Menu>
+      </Nav>
+    );
+  }
+}

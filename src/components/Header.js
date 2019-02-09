@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Nav, Menu, MenuItem, RightMenu, StyledLink } from "./styled";
+import { Header, Menu, MenuItem, StyledLink } from "./styled";
 import fb from "../images/fb.png";
 import gp from "../images/gp.png";
 import ig from "../images/ig.png";
@@ -8,7 +8,7 @@ import tw from "../images/tw.png";
 
 export default () => {
   return (
-    <Nav>
+    <Header>
       <Menu>
         <MenuItem>
           <StyledLink to="/About">About</StyledLink>
@@ -26,7 +26,7 @@ export default () => {
           <StyledLink to="/Contact">Contact</StyledLink>
         </MenuItem>
       </Menu>
-      <RightMenu>
+      <Menu>
         <MenuItem>
           <StyledLink to="/facebook">
             <img src={fb} alt="facebook-icon" />
@@ -47,7 +47,7 @@ export default () => {
             <img src={gp} alt="googleplus-icon" />
           </StyledLink>
         </MenuItem>
-      </RightMenu>
-    </Nav>
+      </Menu>
+    </Header>
   );
 };

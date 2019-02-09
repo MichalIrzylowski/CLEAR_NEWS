@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
+import Slider from "./Slider";
 
 class Home extends Component {
   handleClick() {
@@ -9,18 +10,14 @@ class Home extends Component {
 
   render() {
     return (
-      <div>
-        <p>{this.props.initialText}</p>
-        <button type="button" onClick={this.handleClick.bind(this)}>
-          change text!
-        </button>
-      </div>
+      <>
+        <Slider />
+      </>
     );
   }
 }
 
 Home.propTypes = {
-  initialText: PropTypes.string.isRequired,
   changeText: PropTypes.func
 };
 

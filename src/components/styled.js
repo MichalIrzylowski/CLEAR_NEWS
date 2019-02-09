@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
+import Grupo from "../images/Grupo@2x.png";
 
 export const Main = styled.main`
   width: 100%;
@@ -7,32 +8,91 @@ export const Main = styled.main`
   flex-direction: column;
 `;
 
-export const Nav = styled.nav`
+export const Header = styled.header`
+  display: flex;
+  justify-content: space-between;
   width: 100%;
-  height: 49px;
-  position: relative;
   background-color: #707070;
-  padding: 0 100px;
+  padding: 14px 100px;
 `;
 
 export const Menu = styled.ul`
   display: flex;
   list-style-type: none;
-  position: absolute;
-  top: 14px;
-`;
-
-export const RightMenu = styled(Menu)`
-  right: 100px;
+  align-items: center;
 `;
 
 export const MenuItem = styled.li`
+  text-transform: ${props => (props.uppercase ? "uppercase" : "none")};
+  font-size: ${props => (props.mainMenuItem ? "14px" : "12px")};
+  cursor: pointer;
   &:not(:first-child) {
-    margin-left: 30px;
+    margin-left: ${props => (props.mainMenuItem ? "45px" : "30px")};
   }
 `;
 
 export const StyledLink = styled(Link)`
   color: #fff;
   text-decoration: none;
+`;
+
+export const LogoWrapper = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 150px;
+`;
+
+export const BlueBall = styled.div`
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #29abe2;
+`;
+
+export const HeroLogo = styled.h1`
+  display: inline;
+  font-size: 55px;
+`;
+
+export const SubLogo = styled.span`
+  font-size: 24px;
+`;
+
+export const Nav = styled.nav`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 34px;
+  width: 100%;
+  position: relative;
+`;
+
+export const Active = styled.span`
+  background-color: #29abe2;
+  width: ${props => `${props.position.width + props.position.width * 0.5}px`};
+  height: 5px;
+  position: absolute;
+  bottom: 0;
+  left: ${props => `${props.position.x - props.position.width * 0.3}px`};
+  transition: 0.3s ease-in-out;
+`;
+
+export const Slider = styled.div`
+  position: relative;
+  width: 100%;
+  height: 491px;
+  background-image: url(${Grupo});
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+`;
+
+export const SliderRightArrow = styled.img`
+  position: absolute;
+  right: 70px;
+  top: 50%;
+  transform: translateY(-50%);
 `;

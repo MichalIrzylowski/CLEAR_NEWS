@@ -1,10 +1,12 @@
 import React from "react";
 import { Route, Link, Switch } from "react-router-dom";
 import { createGlobalStyle } from "styled-components";
-import PageMenu from "./PageMenu";
+import Header from "./Header";
+import LogoComponent from "./LogoComponent";
+import Nav from "./Nav";
+import { Main } from "./styled";
 import Home from "./Home";
 import About from "./About";
-import { Main } from "./styled";
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -12,6 +14,7 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
   }
 
   #app {
@@ -26,9 +29,12 @@ const App = props => {
   return (
     <>
       <GlobalStyle />
-      <PageMenu />
+      <Header />
 
-      <hr />
+      <LogoComponent />
+
+      <Nav />
+
       <Main>
         <Switch>
           <Route path="/about" component={About} />
