@@ -121,3 +121,63 @@ export const AbstractContent = styled.p`
   font-size: 20px;
   font-weight: 600;
 `;
+
+export const Wrapper = styled.section`
+  width: 100%;
+  padding: 100px;
+`;
+
+export const SectionHeader = styled.h3`
+  font-size: 24px;
+  font-weight: 400;
+`;
+
+export const Hr = styled.hr`
+  width: 68px;
+  height: 5px;
+  background-color: #29abe2;
+  margin-top: 20px;
+`;
+
+export const ArticlesWrapper = styled.div`
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 50px;
+`;
+
+export const ArticleCardWrapper = styled.div`
+  width: 300px;
+  height: 360px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+`;
+
+export const ArticleCardImage = styled.div`
+  height: 245px;
+  width: 300px;
+  background-image: url(${props => props.image});
+  background-size: cover;
+  background-position: center;
+`;
+
+export const ArticleCardAbstract = styled.p`
+  width: 100%;
+  padding: 10px 0;
+  font-weight: 600;
+`;
+
+export const ArticleCardBasicInfo = styled.ul`
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+`;
+
+export const ArticleCardBasicInfoItem = styled.li`
+  font-size: 14px;
+  &:not(:nth-child(1)) {
+    margin-left: 10px;
+  }
+`;

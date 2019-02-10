@@ -14,7 +14,6 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    overflow: hidden;
   }
 
   #app {
@@ -22,6 +21,7 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
   }
 `;
 

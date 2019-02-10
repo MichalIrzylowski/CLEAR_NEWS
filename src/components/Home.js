@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import Slider from "./Slider";
+import LatestStories from "./LatestStories";
 
 class Home extends Component {
   handleClick() {
@@ -12,6 +13,7 @@ class Home extends Component {
     return (
       <>
         <Slider />
+        <LatestStories />
       </>
     );
   }
