@@ -1,7 +1,7 @@
 import { combineReducers } from "redux";
-import latestNews from "./latestNews";
+import latestStories from "./latestStories";
 
-export default combineReducers({ latestNews });
+export default combineReducers({ latestStories });
 
 // export default function reducer(state, action) {
 //   switch (action.type) {

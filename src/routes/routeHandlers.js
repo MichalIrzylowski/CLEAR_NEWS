@@ -1,6 +1,6 @@
 import { Article } from "../models";
 
-export const loadLatestNews = async (req, res, next) => {
+export const loadLatestStories = async (req, res, next) => {
   try {
     const articles = await Article.find({})
       .sort({ createdAt: -1 })

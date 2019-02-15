@@ -1,10 +1,10 @@
-import { LOAD_LATEST_NEWS_SUCCESS } from "./actionTypes";
+import { LOAD_LATEST_STORIES_SUCCESS } from "./actionTypes";
 
 const defaultState = [];
 
 export default (state = defaultState, action) => {
   switch (action.type) {
-    case LOAD_LATEST_NEWS_SUCCESS:
+    case LOAD_LATEST_STORIES_SUCCESS:
       return action.payload;
     default:
       return state;

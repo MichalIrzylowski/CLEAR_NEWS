@@ -1,12 +1,12 @@
 import { Router } from "express";
 
-import { loadLatestNews } from "./routeHandlers";
+import { loadLatestStories } from "./routeHandlers";
 
 import renderer from "../handlers/renderer";
 
 const router = Router();
 
-router.get("/api/latest_news", loadLatestNews);
+router.get("/api/latest_stories", loadLatestStories);
 
 router.get("*", renderer);
 

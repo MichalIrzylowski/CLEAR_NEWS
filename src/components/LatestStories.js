@@ -11,13 +11,13 @@ class LatestStories extends Component {
   }
 
   componentDidMount() {
-    if (this.props.latestNews.length === 0) {
+    if (this.props.latestStories.length === 0) {
       this.props.loadLatestNews();
     }
   }
 
   render() {
-    const Articles = this.props.latestNews.map((article, i) => (
+    const Articles = this.props.latestStories.map((article, i) => (
       <ArticleCard
         key={i}
         image={article.mainImage}
@@ -39,16 +39,16 @@ class LatestStories extends Component {
 }
 
 const mapStateToProps = state => {
-  const { latestNews } = state;
+  const { latestStories } = state;
   return {
-    latestNews
+    latestStories
   };
 };
 
 const mapDispatchToProps = dispatch => {
   return {
-    loadLatestNews: () => {
-      dispatch({ type: actions.LATEST_NEWS_REQUEST });
+    loadLatestStories: () => {
+      dispatch({ type: actions.LATEST_STORIES_REQUEST });
     }
   };
 };

@@ -13,7 +13,7 @@ const renderer = async (req, res, next) => {
 
   const articles = await Article.find();
 
-  const initialState = { latestNews: articles };
+  const initialState = { latestStories: articles };
   console.log(initialState);
 
   const context = {};
