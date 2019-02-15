@@ -1,19 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { createStore } from "redux";
-import { Provider } from "react-redux";
 import { BrowserRouter } from "react-router-dom";
 import App from "./components/App";
-import reducer from "./reducer";
+import Provider from "./Provider";
 
-const initialState = window.APP_STATE;
+const initialState = window.APP_STATE || {};
 
 delete window.APP_STATE;
 
-const store = createStore(reducer, initialState);
-
 ReactDOM.hydrate(
-  <Provider store={store}>
+  <Provider initialState={initialState}>
     <BrowserRouter>
       <App />
     </BrowserRouter>

@@ -1,16 +1,23 @@
 import React, { Component } from "react";
+import { connect } from "react-redux";
 import { Wrapper, SectionHeader, Hr, ArticlesWrapper } from "./styled";
 import ArticleCard from "./ArticleCard";
 
-import { ArticlesData } from "./static_data/latest_stories";
+import actions from "../reducer/actionTypes";
 
-export default class LatestStories extends Component {
+class LatestStories extends Component {
   constructor(props) {
     super(props);
   }
 
+  componentDidMount() {
+    if (this.props.latestNews.length === 0) {
+      this.props.loadLatestNews();
+    }
+  }
+
   render() {
-    const Articles = ArticlesData.map((article, i) => (
+    const Articles = this.props.latestNews.map((article, i) => (
       <ArticleCard
         key={i}
         image={article.mainImage}
@@ -30,3 +37,23 @@ export default class LatestStories extends Component {
     );
   }
 }
+
+const mapStateToProps = state => {
+  const { latestNews } = state;
+  return {
+    latestNews
+  };
+};
+
+const mapDispatchToProps = dispatch => {
+  return {
+    loadLatestNews: () => {
+      dispatch({ type: actions.LATEST_NEWS_REQUEST });
+    }
+  };
+};
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(LatestStories);

@@ -1,20 +1,20 @@
 import React from "react";
 import ReactDOMServer from "react-dom/server";
-import { createStore } from "redux";
-import { Provider } from "react-redux";
+import Provider from "../Provider";
 import { StaticRouter } from "react-router";
 import { ServerStyleSheet } from "styled-components";
 
 import Html from "../components/Html";
 import App from "../components/App";
-import reducer from "../reducer";
+import { Article } from "../models"; // just for now, later remove!
 
 const renderer = async (req, res, next) => {
   const scripts = ["vendors~client.js", "client.js"];
 
-  const initialState = { initialText: "Rendered on server!" };
+  const articles = await Article.find();
 
-  const store = createStore(reducer, initialState);
+  const initialState = { latestNews: articles };
+  console.log(initialState);
 
   const context = {};
 
@@ -22,7 +22,7 @@ const renderer = async (req, res, next) => {
 
   const appMarkup = ReactDOMServer.renderToString(
     sheet.collectStyles(
-      <Provider store={store}>
+      <Provider initialState={initialState}>
         <StaticRouter location={req.url} context={context}>
           <App />
         </StaticRouter>

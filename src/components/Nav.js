@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Nav, Menu, MenuItem } from "./styled";
+import { Nav, Menu, MenuItem, StyledLink } from "./styled";
 import search from "../images/search.png";
 import { Active } from "./styled";
 
