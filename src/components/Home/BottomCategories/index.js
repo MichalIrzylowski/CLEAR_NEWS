@@ -6,13 +6,13 @@ import {
   Hr,
   EconomyWrapper,
   ArticlesWrapper
-} from "../styled";
+} from "../../styled";
 import ArticleCard from "../LatestStories/ArticleCard";
 
 import {
   LOAD_ECONOMY_NEWS_REQUEST,
   LOAD_HEALTH_NEWS_REQUEST
-} from "../../reducer/actionTypes";
+} from "../../../reducer/actionTypes";
 
 class BottomCategories extends Component {
   componentDidMount() {

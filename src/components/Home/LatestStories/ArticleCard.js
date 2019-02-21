@@ -5,7 +5,7 @@ import {
   ArticleCardAbstract,
   ArticleCardBasicInfo,
   ArticleCardBasicInfoItem
-} from "../styled";
+} from "../../styled";
 
 const ArticleCard = ({
   image,

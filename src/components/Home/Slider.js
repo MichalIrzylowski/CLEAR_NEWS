@@ -5,9 +5,9 @@ import {
   Abstract,
   Author,
   AbstractContent
-} from "./styled";
+} from "../styled";
 
-import Arrow from "../images/arrow.png";
+import Arrow from "../../images/arrow.png";
 
 export default class MainSlider extends Component {
   constructor(props) {

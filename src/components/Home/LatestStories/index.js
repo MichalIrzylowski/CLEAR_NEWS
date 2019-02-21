@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import { Wrapper, SectionHeader, Hr, ArticlesWrapper } from "../styled";
+import { Wrapper, SectionHeader, Hr, ArticlesWrapper } from "../../styled";
 import ArticleCard from "./ArticleCard";
 
-import actions from "../../reducer/actionTypes";
+import actions from "../../../reducer/actionTypes";
 
 class LatestStories extends Component {
   constructor(props) {

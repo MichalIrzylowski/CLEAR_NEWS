@@ -1,14 +1,8 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import imageSign from "../../images/imageSign.png";
-import { LOAD_IN_PICTURES_REQUEST } from "../../reducer/actionTypes";
+import { LOAD_IN_PICTURES_REQUEST } from "../../../reducer/actionTypes";
 
-import {
-  Wrapper,
-  SectionHeader,
-  ArticlesWrapper,
-  InPicturesWrapper
-} from "../styled";
+import { Wrapper, SectionHeader, InPicturesWrapper } from "../../styled";
 
 import SinglePicture from "./SinglePicture";
 

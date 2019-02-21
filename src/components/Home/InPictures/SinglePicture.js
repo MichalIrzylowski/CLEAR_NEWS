@@ -1,8 +1,12 @@
 import React from "react";
 
-import imageSign from "../../images/imageSign.png";
+import imageSign from "../../../images/imageSign.png";
 
-import { InPicturePicture, InPictureWrapper, InPictureHover } from "../styled";
+import {
+  InPicturePicture,
+  InPictureWrapper,
+  InPictureHover
+} from "../../styled";
 
 export default ({ src, title }) => (
   <InPictureWrapper>
