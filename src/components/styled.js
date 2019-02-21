@@ -6,6 +6,7 @@ export const Main = styled.main`
   width: 100%;
   display: flex;
   flex-direction: column;
+  align-items: center;
 `;
 
 export const Header = styled.header`
@@ -51,7 +52,7 @@ export const BlueBall = styled.div`
   background-color: #29abe2;
 `;
 
-export const HeroLogo = styled.h1`
+export const HeroLogo = styled.h2`
   display: inline;
   font-size: 55px;
 `;
@@ -67,6 +68,7 @@ export const Nav = styled.nav`
   height: 34px;
   width: 100%;
   position: relative;
+  border-bottom: 1px solid #707070;
 `;
 
 export const Active = styled.span`
@@ -123,13 +125,18 @@ export const AbstractContent = styled.p`
 `;
 
 export const Wrapper = styled.section`
-  width: 100%;
-  padding: 100px;
+  width: ${props => (props.width ? props.width : "970px")};
+  padding: 50px 0;
+  display: ${props => (props.flex ? "flex" : "block")};
+  &:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
 `;
 
 export const SectionHeader = styled.h3`
   font-size: 24px;
   font-weight: 400;
+  text-align: ${props => (props.center ? "center" : "left")};
 `;
 
 export const Hr = styled.hr`
@@ -137,6 +144,7 @@ export const Hr = styled.hr`
   height: 5px;
   background-color: #29abe2;
   margin-top: 20px;
+  border: none;
 `;
 
 export const ArticlesWrapper = styled.div`
@@ -146,9 +154,14 @@ export const ArticlesWrapper = styled.div`
   margin-top: 50px;
 `;
 
+export const EconomyWrapper = styled.div`
+  width: ${props => props.width};
+  margin-right: ${props => props.margin};
+`;
+
 export const ArticleCardWrapper = styled.div`
   width: 300px;
-  height: 360px;
+  height: ${props => (props.health ? "190px" : "360px")};
   margin-bottom: 50px;
   display: flex;
   flex-direction: column;
@@ -166,7 +179,8 @@ export const ArticleCardImage = styled.div`
 export const ArticleCardAbstract = styled.p`
   width: 100%;
   padding: 10px 0;
-  font-weight: 600;
+  font-weight: ${props => (props.weight ? props.weight : 700)};
+  color: ${props => (props.color ? props.color : "#000000")};
 `;
 
 export const ArticleCardBasicInfo = styled.ul`
@@ -180,4 +194,75 @@ export const ArticleCardBasicInfoItem = styled.li`
   &:not(:nth-child(1)) {
     margin-left: 10px;
   }
+`;
+
+export const InPicturesWrapper = styled.div`
+  display: flex;
+  width: 970px;
+  justify-content: space-between;
+  margin: 50px auto 0 auto;
+`;
+
+export const InPictureHover = styled.img`
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+`;
+
+export const InPicturePicture = styled.img`
+  width: 300px;
+  height: 240px;
+`;
+
+export const InPictureWrapper = styled.div`
+  position: relative;
+  &:hover ${InPicturePicture} {
+    opacity: 0.8;
+  }
+  &:hover ${InPictureHover} {
+    display: block;
+  }
+`;
+
+export const Footer = styled.footer`
+  height: 260px;
+  width: 100%;
+  border-top: 1px solid #707070;
+  position: relative;
+`;
+
+export const FooterNav = styled.div`
+  height: 110px;
+  width: 100%;
+  background-color: #707070;
+  position: relative;
+`;
+
+export const FooterNavWrapper = styled.div`
+  display: flex;
+  justify-content: space-between;
+  width: 970px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+`;
+
+export const CopyRights = styled.p`
+  color: #fff;
+  font-size: 12px;
+`;
+
+export const BlueLetters = styled.span`
+  color: #29abe2;
+`;
+
+export const Signature = styled.p`
+  position: absolute;
+  bottom: 10px;
+  right: 5px;
+  color: #fff;
+  font-size: 12px;
 `;

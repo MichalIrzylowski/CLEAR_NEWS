@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 import Article from "./article";
+import InPicture from "./inPicture";
 
 import { seedArticles } from "./seed";
 
@@ -14,3 +15,4 @@ mongoose.connect("mongodb://localhost:27017/clear_news", {
 seedArticles();
 
 export { Article };
+export { InPicture };

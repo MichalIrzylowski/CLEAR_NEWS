@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Slider from "./Slider";
 import LatestStories from "./LatestStories";
+import InPictures from "./InPictures";
+import BottomCategories from "./BottomCategories";
 
 class Home extends Component {
   render() {
@@ -8,6 +10,8 @@ class Home extends Component {
       <>
         <Slider />
         <LatestStories />
+        <InPictures />
+        <BottomCategories />
       </>
     );
   }

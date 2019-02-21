@@ -7,6 +7,7 @@ import Nav from "./Nav";
 import { Main } from "./styled";
 import Home from "./Home";
 import About from "./About";
+import Footer from "./Footer";
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -41,6 +42,7 @@ const App = props => {
           <Route path="/" component={Home} />
         </Switch>
       </Main>
+      <Footer />
     </>
   );
 };

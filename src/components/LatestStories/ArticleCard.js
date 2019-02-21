@@ -5,12 +5,23 @@ import {
   ArticleCardAbstract,
   ArticleCardBasicInfo,
   ArticleCardBasicInfoItem
-} from "./styled";
+} from "../styled";
 
-const ArticleCard = ({ image, text, author, comments, date }) => (
-  <ArticleCardWrapper>
-    <ArticleCardImage image={image} />
+const ArticleCard = ({
+  image,
+  text,
+  author,
+  comments,
+  date,
+  abstract,
+  health
+}) => (
+  <ArticleCardWrapper health={health}>
+    {image && <ArticleCardImage image={image} title={text} />}
     <ArticleCardAbstract>{text}</ArticleCardAbstract>
+    <ArticleCardAbstract weight="400" color="#4d4d4d">
+      {abstract}
+    </ArticleCardAbstract>
     <ArticleCardBasicInfo>
       <ArticleCardBasicInfoItem>By {author}</ArticleCardBasicInfoItem>
       <ArticleCardBasicInfoItem>{comments} comments</ArticleCardBasicInfoItem>

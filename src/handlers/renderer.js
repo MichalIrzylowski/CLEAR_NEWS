@@ -6,15 +6,13 @@ import { ServerStyleSheet } from "styled-components";
 
 import Html from "../components/Html";
 import App from "../components/App";
-import { Article } from "../models"; // just for now, later remove!
+
+import dataLoader from "./dataLoader";
 
 const renderer = async (req, res, next) => {
   const scripts = ["vendors~client.js", "client.js"];
 
-  const articles = await Article.find();
-
-  const initialState = { latestStories: articles };
-  console.log(initialState);
+  const initialState = await dataLoader(req.url);
 
   const context = {};
 
