@@ -14,6 +14,8 @@ const renderer = async (req, res, next) => {
 
   const initialState = await dataLoader(req.url);
 
+  console.log("[INITIAL STATE]", initialState);
+
   const context = {};
 
   const sheet = new ServerStyleSheet();
@@ -28,7 +30,11 @@ const renderer = async (req, res, next) => {
     )
   );
 
+  console.log("APP MARKUP");
+
   const styles = sheet.getStyleElement();
+
+  console.log("STYLES");
 
   const html = ReactDOMServer.renderToStaticMarkup(
     <Html
@@ -38,6 +44,8 @@ const renderer = async (req, res, next) => {
       initialState={initialState}
     />
   );
+
+  console.log("HTML");
 
   return res.send(`<!doctype html>${html}`);
 };

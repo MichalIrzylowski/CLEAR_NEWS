@@ -7,14 +7,19 @@ import Nav from "./Nav";
 import { Main } from "./styled";
 import Home from "./Home";
 import About from "./About";
+import Culture from "./Culture";
 import Footer from "./Footer";
 
 const GlobalStyle = createGlobalStyle`
+
+  @import url('https://fonts.googleapis.com/css?family=Catamaran:300,400,700&subset=latin-ext');
+
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Catamaran', Arial, Helvetica, sans-serif;
+    font-display: fallback;
   }
 
   #app {
@@ -39,6 +44,7 @@ const App = props => {
       <Main>
         <Switch>
           <Route path="/about" component={About} />
+          <Route path="/culture" component={Culture} />
           <Route path="/" component={Home} />
         </Switch>
       </Main>

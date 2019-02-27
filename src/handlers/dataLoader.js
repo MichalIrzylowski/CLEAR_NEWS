@@ -23,7 +23,19 @@ export default async url => {
       latestStories: articles,
       inPictures,
       economyNews,
-      healthNews
+      healthNews,
+      cultureNews
+    };
+  } else if (url === "/culture") {
+    const articles = await Article.find({ category: "culture" })
+      .sort({ createdAt: -1 })
+      .limit(9);
+    return {
+      latestStories: [],
+      inPictures: [],
+      economyNews: [],
+      healthNews: [],
+      cultureNews: { articles: articles, allArticles: false }
     };
   }
 };

@@ -134,5 +134,184 @@ export const ArticlesData = [
     author: "Clark Kent",
     date: "12-02-2018",
     category: "health"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/forest.png",
+    text:
+      "[Culture] Up arrived no painful between. It declared is prospect an insisted pleasure.",
+    author: "Clark Kent",
+    comments: 45,
+    date: "14-02-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/Building.png",
+    text:
+      "[Culture] Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom.",
+    author: "Clark Kent",
+    comments: 38,
+    date: "08-02-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/running_man.jpg",
+    text:
+      "[Culture] No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured.",
+    author: "Clark Kent",
+    comments: 46,
+    date: "28-01-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808821/clear_news/sitting_old_man.jpg",
+    text: "[Culture] Chicken unknown besides attacks gay compact out you.",
+    author: "Clark Kent",
+    comments: 22,
+    date: "08-01-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/naked_man.jpg",
+    text:
+      "[Culture] Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On threars in money arise of.",
+    author: "Clark Kent",
+    comments: 26,
+    date: "22-12-2016",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/bum.jpg",
+    text:
+      "[Culture] On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish.",
+    author: "Clark Kent",
+    comments: 31,
+    date: "11-12-2016",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1550663230/clear_news/desk.png",
+    text:
+      "[Culture] Up arrived no painful between. It declared is prospect an insisted pleasure.",
+    author: "Clark Kent",
+    comments: 32,
+    date: "14-02-2018",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1550663229/clear_news/secondBum.png",
+    text:
+      "[Culture] Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom.",
+    author: "Clark Kent",
+    comments: 45,
+    date: "12-02-2018",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1550663230/clear_news/office.png",
+    text:
+      "[Culture] Is branched in my up strictly remember. Songs but chief has ham widow downs.",
+    author: "Clark Kent",
+    comments: 33,
+    date: "11-02-2018",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/forest.png",
+    text:
+      "[Culture] page2? Up arrived no painful between. It declared is prospect an insisted pleasure.",
+    author: "Clark Kent",
+    comments: 45,
+    date: "14-02-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/Building.png",
+    text:
+      "[Culture] page2? Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom.",
+    author: "Clark Kent",
+    comments: 38,
+    date: "08-02-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/running_man.jpg",
+    text:
+      "[Culture] page2? No opinions answered oh felicity is resolved hastened. Produced it friendly my if opinions humoured.",
+    author: "Clark Kent",
+    comments: 46,
+    date: "28-01-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808821/clear_news/sitting_old_man.jpg",
+    text:
+      "[Culture] page2? Chicken unknown besides attacks gay compact out you.",
+    author: "Clark Kent",
+    comments: 22,
+    date: "08-01-2017",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/naked_man.jpg",
+    text:
+      "[Culture] page2? Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On threars in money arise of.",
+    author: "Clark Kent",
+    comments: 26,
+    date: "22-12-2016",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1549808844/clear_news/bum.jpg",
+    text:
+      "[Culture] page2? On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish.",
+    author: "Clark Kent",
+    comments: 31,
+    date: "11-12-2016",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1550663230/clear_news/desk.png",
+    text:
+      "[Culture] page2? Up arrived no painful between. It declared is prospect an insisted pleasure.",
+    author: "Clark Kent",
+    comments: 32,
+    date: "14-02-2018",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1550663229/clear_news/secondBum.png",
+    text:
+      "[Culture] page2? Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom.",
+    author: "Clark Kent",
+    comments: 45,
+    date: "12-02-2018",
+    category: "culture"
+  },
+  {
+    mainImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1550663230/clear_news/office.png",
+    text:
+      "[Culture] page2? Is branched in my up strictly remember. Songs but chief has ham widow downs.",
+    author: "Clark Kent",
+    comments: 33,
+    date: "11-02-2018",
+    category: "culture"
   }
 ];

@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
 import { Link } from "react-router-dom";
 import Grupo from "../images/Grupo@2x.png";
 
@@ -32,7 +32,7 @@ export const MenuItem = styled.li`
 `;
 
 export const StyledLink = styled(Link)`
-  color: #fff;
+  color: ${props => (props.fontcolor ? props.fontcolor : "#fff")};
   text-decoration: none;
 `;
 
@@ -128,7 +128,7 @@ export const Wrapper = styled.section`
   width: ${props => (props.width ? props.width : "970px")};
   padding: 50px 0;
   display: ${props => (props.flex ? "flex" : "block")};
-  &:nth-child(odd) {
+  &:nth-child(odd):not(:nth-child(1)) {
     background-color: #f2f2f2;
   }
 `;
@@ -265,4 +265,48 @@ export const Signature = styled.p`
   right: 5px;
   color: #fff;
   font-size: 12px;
+`;
+
+export const RouteDisplay = styled.h4`
+  font-size: 14px;
+  color: #ccc;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 50px;
+`;
+
+export const RouteDisplayCursor = styled.span`
+  color: #000;
+`;
+
+const loader = keyframes`
+  from{
+    transform: rotate(0deg)
+  }
+
+  to{
+    transform: rotate(360deg)
+  }
+`;
+
+export const RotateWrapper = styled.div`
+  width: 100%;
+  height: 30px;
+  margin-bottom: 50px;
+  position: relative;
+`;
+
+export const Rotate = styled.div`
+  animation: ${loader} 1s linear infinite;
+  background-image: url(${props => props.background});
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: ${props => (props.visible ? "block" : "none")};
 `;

@@ -19,9 +19,11 @@ const ArticleCard = ({
   <ArticleCardWrapper health={health}>
     {image && <ArticleCardImage image={image} title={text} />}
     <ArticleCardAbstract>{text}</ArticleCardAbstract>
-    <ArticleCardAbstract weight="400" color="#4d4d4d">
-      {abstract}
-    </ArticleCardAbstract>
+    {abstract && (
+      <ArticleCardAbstract weight="400" color="#4d4d4d">
+        {abstract}
+      </ArticleCardAbstract>
+    )}
     <ArticleCardBasicInfo>
       <ArticleCardBasicInfoItem>By {author}</ArticleCardBasicInfoItem>
       <ArticleCardBasicInfoItem>{comments} comments</ArticleCardBasicInfoItem>

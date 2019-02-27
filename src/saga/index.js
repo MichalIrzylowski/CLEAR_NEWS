@@ -1,4 +1,4 @@
-import { take, fork, call, put } from "redux-saga/effects";
+import { take, fork, call, put, delay } from "redux-saga/effects";
 import { api } from "../handlers/api";
 import action from "../reducer/actionTypes";
 
@@ -86,9 +86,43 @@ function* loadHealthNews() {
   }
 }
 
+function* loadCultureNews() {
+  while (true) {
+    const request = yield take(action.LOAD_CULTURE_NEWS_REQUEST);
+
+    const { pageNumber } = request;
+
+    const path = `/api/culture_news/${pageNumber}`;
+
+    yield delay(1000); // remember to delete this!
+
+    try {
+      const response = yield call(api, "get", path);
+      if (response.status === 204) {
+        yield put({
+          type: action.ALL_CULTURE_ARTICLES
+        });
+      } else {
+        yield put({
+          type: action.LOAD_CULTURE_NEWS_SUCCESS,
+          payload: response.data
+        });
+      }
+    } catch (error) {
+      console.log("LOAD_CULTURE_NEWS", error);
+      yield delay(1000); // remember to delete this!
+      yield put({
+        type: action.LOAD_CULTURE_NEWS_SUCCESS,
+        payload: ArticlesData.filter(article => article.category === "culture")
+      });
+    }
+  }
+}
+
 export default function* rootSaga() {
   yield fork(loadLatestStories);
   yield fork(loadInPictures);
   yield fork(loadEconomyNews);
   yield fork(loadHealthNews);
+  yield fork(loadCultureNews);
 }

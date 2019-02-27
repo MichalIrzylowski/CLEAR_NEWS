@@ -4,7 +4,8 @@ import {
   loadLatestStories,
   loadInPictures,
   loadLatestEconomyNews,
-  loadLatestHealthNews
+  loadLatestHealthNews,
+  loadCultureNews
 } from "./routeHandlers";
 
 import renderer from "../handlers/renderer";
@@ -15,6 +16,7 @@ router.get("/api/latest_stories", loadLatestStories);
 router.get("/api/in_pictures", loadInPictures);
 router.get("/api/latest_economy_news", loadLatestEconomyNews);
 router.get("/api/latest_health_news", loadLatestHealthNews);
+router.get("/api/culture_news/:pageNumber", loadCultureNews);
 
 router.get("/favicon.ico", (req, res, next) => {
   return res.status(200).json({});

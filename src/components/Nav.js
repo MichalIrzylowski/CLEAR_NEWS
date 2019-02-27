@@ -20,10 +20,14 @@ export default class MainMenu extends Component {
         <Menu width="970px">
           <Active position={this.state.active} />
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Home
+            <StyledLink to="/" fontcolor="#000">
+              Home
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Culture
+            <StyledLink to="/culture" fontcolor="#000">
+              Culture
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
             Entertainment
