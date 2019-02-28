@@ -48,24 +48,24 @@ export const loadLatestHealthNews = async (req, res, next) => {
   }
 };
 
-export const loadCultureNews = async (req, res, next) => {
+export const loadNews = async (req, res, next) => {
   try {
-    let skipValue = req.params.pageNumber;
+    let { pageNumber, typeOfNews } = req.params;
 
-    if (+skipValue !== 0) {
-      skipValue = +skipValue * 9;
+    if (+pageNumber !== 0) {
+      pageNumber = +pageNumber * 9;
     }
 
-    const cultureNews = await Article.find({ category: "culture" })
+    const news = await Article.find({ category: typeOfNews })
       .sort({ createdAt: -1 })
-      .skip(+skipValue)
+      .skip(+pageNumber)
       .limit(9);
 
-    if (cultureNews.length === 0) {
+    if (news.length === 0) {
       return res.status(204).json({});
     }
 
-    return res.status(200).json(cultureNews);
+    return res.status(200).json(news);
   } catch (error) {
     return res.status(500).json(error);
   }

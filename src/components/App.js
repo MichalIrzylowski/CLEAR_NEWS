@@ -1,5 +1,6 @@
 import React from "react";
 import { Route, Link, Switch } from "react-router-dom";
+import { withRouter } from "react-router";
 import { createGlobalStyle } from "styled-components";
 import Header from "./Header";
 import LogoComponent from "./LogoComponent";
@@ -7,8 +8,15 @@ import Nav from "./Nav";
 import { Main } from "./styled";
 import Home from "./Home";
 import About from "./About";
-import Culture from "./Culture";
+
+import { connect } from "react-redux";
+
+import withNewsSubscription from "../HOCs/WithNewsSubscription";
+import ArticlesWrapper from "./ArticlesWrapper";
+
 import Footer from "./Footer";
+
+import action from "../reducer/actionTypes";
 
 const GlobalStyle = createGlobalStyle`
 
@@ -32,6 +40,8 @@ const GlobalStyle = createGlobalStyle`
 `;
 
 const App = props => {
+  // console.log("[app]", props);
+  console.log("[APP]");
   return (
     <>
       <GlobalStyle />
@@ -43,8 +53,84 @@ const App = props => {
 
       <Main>
         <Switch>
+          <Route
+            exact
+            path="/entertainment"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "entertainmentNews",
+              props.loadNews,
+              "Entertainment",
+              "ENTERTAINMENT_NEWS"
+            )}
+          />
+          <Route
+            exact
+            path="/politics"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "politicsNews",
+              props.loadNews,
+              "Politics",
+              "POLITICS_NEWS"
+            )}
+          />
+          <Route
+            exact
+            path="/sports"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "sportsNews",
+              props.loadNews,
+              "Sports",
+              "SPORTS_NEWS"
+            )}
+          />
+          <Route
+            exact
+            path="/worldwide"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "worldwideNews",
+              props.loadNews,
+              "Worldwide",
+              "WORLDWIDE_NEWS"
+            )}
+          />
+          <Route
+            exact
+            path="/innovation"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "innovationNews",
+              props.loadNews,
+              "Innovation",
+              "INNOVATION_NEWS"
+            )}
+          />
+          <Route
+            exact
+            path="/education"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "educationNews",
+              props.loadNews,
+              "Education",
+              "EDUCATION_NEWS"
+            )}
+          />
+          <Route
+            exact
+            path="/culture"
+            component={withNewsSubscription(
+              ArticlesWrapper,
+              "cultureNews",
+              props.loadNews,
+              "Culture",
+              "CULTURE_NEWS"
+            )}
+          />
           <Route path="/about" component={About} />
-          <Route path="/culture" component={Culture} />
           <Route path="/" component={Home} />
         </Switch>
       </Main>
@@ -53,4 +139,22 @@ const App = props => {
   );
 };
 
-export default App;
+const mapDispatchToProps = dispatch => {
+  return {
+    loadNews: (typeOfNews, pageNumber, route) => {
+      dispatch({
+        type: action.LOAD_NEWS_REQUEST,
+        typeOfNews,
+        pageNumber,
+        route
+      });
+    }
+  };
+};
+
+export default withRouter(
+  connect(
+    null,
+    mapDispatchToProps
+  )(App)
+);

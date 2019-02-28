@@ -25,11 +25,11 @@ const middlewareSetup =
     : applyMiddleware(...middlewares);
 
 export default ({ children, initialState = {} }) => {
-  console.log("[PROVIDER] start");
+  // console.log("[PROVIDER] start");
 
   const store = createStore(reducer, initialState, middlewareSetup);
 
-  console.log("[PROVIDER] - store created");
+  // console.log("[PROVIDER] - store created");
 
   // if (sessionStorage.token) {
   //   setAuthorizationHeader(sessionStorage.token);
@@ -45,7 +45,7 @@ export default ({ children, initialState = {} }) => {
 
   sagaMiddleware.run(rootSaga);
 
-  console.log("[PROVIDER] - run saga");
+  // console.log("[PROVIDER] - run saga");
 
   return <Provider store={store}>{children}</Provider>;
 };

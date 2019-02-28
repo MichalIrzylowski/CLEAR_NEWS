@@ -86,34 +86,32 @@ function* loadHealthNews() {
   }
 }
 
-function* loadCultureNews() {
+function* loadNews() {
   while (true) {
-    const request = yield take(action.LOAD_CULTURE_NEWS_REQUEST);
+    const request = yield take(action.LOAD_NEWS_REQUEST);
 
-    const { pageNumber } = request;
+    const { pageNumber, route, typeOfNews } = request;
 
-    const path = `/api/culture_news/${pageNumber}`;
-
-    yield delay(1000); // remember to delete this!
+    const path = `/api/news/${route}/${pageNumber}`;
 
     try {
       const response = yield call(api, "get", path);
       if (response.status === 204) {
         yield put({
-          type: action.ALL_CULTURE_ARTICLES
+          type: action.ALL_ARTICLES + "-" + typeOfNews
         });
       } else {
         yield put({
-          type: action.LOAD_CULTURE_NEWS_SUCCESS,
+          type: action.LOAD_NEWS_SUCCESS + "-" + typeOfNews,
           payload: response.data
         });
       }
     } catch (error) {
-      console.log("LOAD_CULTURE_NEWS", error);
+      console.log("LOAD_NEWS", error);
       yield delay(1000); // remember to delete this!
       yield put({
-        type: action.LOAD_CULTURE_NEWS_SUCCESS,
-        payload: ArticlesData.filter(article => article.category === "culture")
+        type: action.LOAD_NEWS_SUCCESS + "-" + typeOfNews,
+        payload: ArticlesData.filter(article => article.category === route)
       });
     }
   }
@@ -124,5 +122,5 @@ export default function* rootSaga() {
   yield fork(loadInPictures);
   yield fork(loadEconomyNews);
   yield fork(loadHealthNews);
-  yield fork(loadCultureNews);
+  yield fork(loadNews);
 }

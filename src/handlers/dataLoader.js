@@ -1,5 +1,21 @@
 import { Article, InPicture } from "../models";
 
+const newsTemplate = { articles: [], allArticles: false };
+
+const initialStateTemplate = {
+  latestStories: [],
+  inPictures: [],
+  economyNews: [],
+  healthNews: [],
+  cultureNews: newsTemplate,
+  entertainmentNews: newsTemplate,
+  politicsNews: newsTemplate,
+  sportsNews: newsTemplate,
+  worldwideNews: newsTemplate,
+  innovationNews: newsTemplate,
+  educationNews: newsTemplate
+};
+
 export default async url => {
   if (url === "/") {
     const articles = await Article.find({})
@@ -18,24 +34,28 @@ export default async url => {
     const healthNews = await Article.find({ category: "health" })
       .sort({ createdAt: -1 })
       .limit(3);
-
     return {
+      ...initialStateTemplate,
       latestStories: articles,
       inPictures,
       economyNews,
-      healthNews,
-      cultureNews
+      healthNews
     };
-  } else if (url === "/culture") {
-    const articles = await Article.find({ category: "culture" })
+  } else {
+    const category = url.substr(1, url.length);
+    const articles = await Article.find({ category })
       .sort({ createdAt: -1 })
       .limit(9);
-    return {
-      latestStories: [],
-      inPictures: [],
-      economyNews: [],
-      healthNews: [],
-      cultureNews: { articles: articles, allArticles: false }
+
+    const key = category + "News";
+
+    const initialState = {
+      ...initialStateTemplate,
+      [key]: { articles, allArticles: false }
     };
+
+    // console.log("[DATA LOADER] loaded initial state");
+
+    return initialState;
   }
 };

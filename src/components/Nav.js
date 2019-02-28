@@ -30,25 +30,39 @@ export default class MainMenu extends Component {
             </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Entertainment
+            <StyledLink to="/entertainment" fontcolor="#000">
+              Entertainment
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Politics
+            <StyledLink to="/politics" fontcolor="#000">
+              Politics
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Sports
+            <StyledLink to="/sports" fontcolor="#000">
+              Sports
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Worldwide
+            <StyledLink to="/worldwide" fontcolor="#000">
+              Worldwide
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Innovation
+            <StyledLink to="/innovation" fontcolor="#000">
+              Innovation
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            Education
+            <StyledLink to="/education" fontcolor="#000">
+              Education
+            </StyledLink>
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
-            <img src={search} />
+            <StyledLink to="/search" fontcolor="#000">
+              <img src={search} />
+            </StyledLink>
           </MenuItem>
         </Menu>
       </Nav>
