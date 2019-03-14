@@ -16,6 +16,8 @@ import ArticlesWrapper from "./ArticlesWrapper";
 
 import Footer from "./Footer";
 
+import Article from "./Article/index";
+
 import action from "../reducer/actionTypes";
 
 const GlobalStyle = createGlobalStyle`
@@ -130,6 +132,7 @@ const App = props => {
               "CULTURE_NEWS"
             )}
           />
+          <Route path="/:newsType/:id" component={Article} />
           <Route path="/about" component={About} />
           <Route path="/" component={Home} />
         </Switch>

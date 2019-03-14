@@ -61,7 +61,7 @@ export default class MainMenu extends Component {
           </MenuItem>
           <MenuItem onClick={this.activateMenu} mainMenuItem uppercase>
             <StyledLink to="/search" fontcolor="#000">
-              <img src={search} />
+              <img src={`/${search}`} />
             </StyledLink>
           </MenuItem>
         </Menu>

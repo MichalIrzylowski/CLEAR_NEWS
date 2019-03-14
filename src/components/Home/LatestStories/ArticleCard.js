@@ -4,28 +4,33 @@ import {
   ArticleCardImage,
   ArticleCardAbstract,
   ArticleCardBasicInfo,
-  ArticleCardBasicInfoItem
+  ArticleCardBasicInfoItem,
+  StyledLink
 } from "../../styled";
 
 const ArticleCard = ({
+  id,
   image,
   text,
   author,
   comments,
   date,
   abstract,
-  health
+  health,
+  path
 }) => (
   <ArticleCardWrapper health={health}>
     {image && <ArticleCardImage image={image} title={text} />}
-    <ArticleCardAbstract>{text}</ArticleCardAbstract>
+    <StyledLink to={`${path}/${id}`} color="#000">
+      <ArticleCardAbstract>{text}</ArticleCardAbstract>
+    </StyledLink>
     {abstract && (
       <ArticleCardAbstract weight="400" color="#4d4d4d">
         {abstract}
       </ArticleCardAbstract>
     )}
     <ArticleCardBasicInfo>
-      <ArticleCardBasicInfoItem>By {author}</ArticleCardBasicInfoItem>
+      <ArticleCardBasicInfoItem>By {author.name}</ArticleCardBasicInfoItem>
       <ArticleCardBasicInfoItem>{comments} comments</ArticleCardBasicInfoItem>
       <ArticleCardBasicInfoItem>{date}</ArticleCardBasicInfoItem>
     </ArticleCardBasicInfo>

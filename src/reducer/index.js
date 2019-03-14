@@ -4,6 +4,8 @@ import inPictures from "./inPictures";
 import economyNews from "./economyNews";
 import healthNews from "./healthNews";
 import newsReducerCreator from "./newsReducerCreator";
+import readArticle from "./readArticle";
+import recentPosts from "./recentPosts";
 
 export default combineReducers({
   latestStories,
@@ -16,5 +18,7 @@ export default combineReducers({
   sportsNews: newsReducerCreator("SPORTS_NEWS"),
   worldwideNews: newsReducerCreator("WORLDWIDE_NEWS"),
   innovationNews: newsReducerCreator("INNOVATION_NEWS"),
-  educationNews: newsReducerCreator("EDUCATION_NEWS")
+  educationNews: newsReducerCreator("EDUCATION_NEWS"),
+  readArticle,
+  recentPosts
 });

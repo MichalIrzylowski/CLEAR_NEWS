@@ -17,7 +17,7 @@ export default class MainSlider extends Component {
   render() {
     return (
       <Slider>
-        <SliderRightArrow src={Arrow} />
+        <SliderRightArrow src={`/${Arrow}`} />
         <Abstract>
           <Author>By Clark Kent</Author>
           <AbstractContent>

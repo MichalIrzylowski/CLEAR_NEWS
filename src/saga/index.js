@@ -117,10 +117,37 @@ function* loadNews() {
   }
 }
 
+function* loadRecentNewsTitles() {
+  while (true) {
+    yield take(action.LOAD_RECENT_POSTS_REQUEST);
+    try {
+      const path = "/api/recent_news_titles";
+      const response = yield call(api, "get", path);
+
+      yield put({
+        type: action.LOAD_RECENT_POSTS_SUCCESS,
+        payload: response.data
+      });
+    } catch (error) {
+      console.log("loadRecentNewsTitles", error);
+      yield put({
+        type: action.LOAD_RECENT_POSTS_SUCCESS,
+        payload: [
+          ArticlesData[0].text,
+          ArticlesData[1].text,
+          ArticlesData[2].text,
+          ArticlesData[3].text
+        ]
+      });
+    }
+  }
+}
+
 export default function* rootSaga() {
   yield fork(loadLatestStories);
   yield fork(loadInPictures);
   yield fork(loadEconomyNews);
   yield fork(loadHealthNews);
   yield fork(loadNews);
+  yield fork(loadRecentNewsTitles);
 }

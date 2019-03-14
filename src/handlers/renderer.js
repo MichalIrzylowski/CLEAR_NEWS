@@ -14,8 +14,6 @@ const renderer = async (req, res, next) => {
 
   const initialState = await dataLoader(req.url);
 
-  console.log("[INITIAL STATE]", initialState);
-
   const context = {};
 
   const sheet = new ServerStyleSheet();

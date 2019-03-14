@@ -70,3 +70,18 @@ export const loadNews = async (req, res, next) => {
     return res.status(500).json(error);
   }
 };
+
+export const loadRecentNewsTitles = async (req, res, next) => {
+  try {
+    const recentNewsTitles = await Article.find({})
+      .sort({ createdAt: -1 })
+      .limit(4)
+      .map(article => article.text);
+
+    return res.status(200).json(recentNewsTitles);
+  } catch (error) {
+    console.log("[ROUTE HANDLERS - load recent news] __", error);
+
+    return res.statsu(500).json(error);
+  }
+};

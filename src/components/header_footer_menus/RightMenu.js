@@ -11,22 +11,22 @@ export default () => (
   <Menu width="70px;">
     <MenuItem>
       <StyledLink to="/facebook">
-        <img src={fb} alt="facebook-icon" />
+        <img src={`/${fb}`} alt="facebook-icon" />
       </StyledLink>
     </MenuItem>
     <MenuItem>
       <StyledLink to="/instagram">
-        <img src={ig} alt="instagram-icon" />
+        <img src={`/${ig}`} alt="instagram-icon" />
       </StyledLink>
     </MenuItem>
     <MenuItem>
       <StyledLink to="/tweeter">
-        <img src={tw} alt="tweeter-icon" />
+        <img src={`/${tw}`} alt="tweeter-icon" />
       </StyledLink>
     </MenuItem>
     <MenuItem>
       <StyledLink to="/googleplus">
-        <img src={gp} alt="googleplus-icon" />
+        <img src={`/${gp}`} alt="googleplus-icon" />
       </StyledLink>
     </MenuItem>
   </Menu>

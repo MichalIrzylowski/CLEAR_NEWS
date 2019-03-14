@@ -6,7 +6,7 @@ const articleSchema = new Schema(
   {
     mainImage: String,
     text: String,
-    author: String,
+    author: {},
     comments: Number, //later replace with array of IDs
     category: String,
     abstract: String

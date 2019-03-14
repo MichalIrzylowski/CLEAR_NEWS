@@ -14,17 +14,19 @@ import {
   Rotate
 } from "../components/styled";
 
-export default ({ news, heading }) => {
+export default ({ news, heading, path }) => {
   // console.log("[ARTICLE WRAPPER]");
-  // console.log("[ARTICLE WRAPPER - news]", news);
-  const Articles = news.map(article => (
+  // console.log("[ARTICLE WRAPPER - news]", news[0]._id);
+  const Articles = news.map((article, i) => (
     <ArticleCard
-      key={article._id}
+      key={article._id || i}
+      id={article._id || i}
       image={article.mainImage}
       text={article.text}
       author={article.author}
       comments={article.comments}
       date={article.date}
+      path={path}
       // date={article.createdAt.toLocaleString()}
     />
   ));

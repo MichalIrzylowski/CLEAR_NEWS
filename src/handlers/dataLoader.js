@@ -1,6 +1,7 @@
 import { Article, InPicture } from "../models";
 
 const newsTemplate = { articles: [], allArticles: false };
+const articleTemplate = {};
 
 const initialStateTemplate = {
   latestStories: [],
@@ -13,7 +14,8 @@ const initialStateTemplate = {
   sportsNews: newsTemplate,
   worldwideNews: newsTemplate,
   innovationNews: newsTemplate,
-  educationNews: newsTemplate
+  educationNews: newsTemplate,
+  readArticle: articleTemplate
 };
 
 export default async url => {
@@ -42,7 +44,8 @@ export default async url => {
       healthNews
     };
   } else {
-    const category = url.substr(1, url.length);
+    const splitedUrl = url.split("/");
+    const category = splitedUrl[1];
     const articles = await Article.find({ category })
       .sort({ createdAt: -1 })
       .limit(9);

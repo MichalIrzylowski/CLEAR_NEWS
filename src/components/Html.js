@@ -19,7 +19,7 @@ const Html = ({ styles, children, scripts, initialState }) => (
         />
       )}
       {scripts.map((script, index) => (
-        <script key={index} src={script} />
+        <script key={index} src={`/${script}`} />
       ))}
     </body>
   </html>

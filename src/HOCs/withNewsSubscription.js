@@ -89,7 +89,7 @@ export default function(
 
     render() {
       // console.log("[HOC - subscription]");
-      // console.log("[HOC - subscription]", this.props);
+      console.log("[HOC - subscription]", this.props);
       // console.log("[HOC - subscription]", this.props[newsType]);
       // console.log("[HOC - subscription]", this.props[newsType].articles);
       return (
@@ -97,6 +97,7 @@ export default function(
           news={this.props[newsType].articles}
           {...this.props}
           heading={heading}
+          path={this.props.match.url}
         />
       );
     }
