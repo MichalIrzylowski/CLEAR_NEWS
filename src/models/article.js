@@ -9,7 +9,12 @@ const articleSchema = new Schema(
     author: {},
     comments: Number, //later replace with array of IDs
     category: String,
-    abstract: String
+    abstract: String,
+    header: [],
+    backgroundImage: String,
+    content: [],
+    views: Number,
+    shares: Number
   },
   {
     timestamps: true

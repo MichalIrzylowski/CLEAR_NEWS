@@ -28,7 +28,8 @@ export default function(
       console.log(
         (actualPosition / documentHeight) * 100 > 55,
         !loadNews,
-        !allArticles
+        !allArticles,
+        this.state.currentPage
       );
 
       if (
@@ -50,23 +51,23 @@ export default function(
 
     componentDidMount() {
       // console.log("HOC - compoenent did mount", this.state);
-      if (this.props[newsType].articles.length === 0) {
+      if (this.props[newsType].articles.length < 9) {
         const { currentPage } = this.state;
 
         loadNewsAction(typeOfReducer, currentPage, heading.toLowerCase());
-
+        console.log("Less than 9");
         this.setState({
           loadNews: !this.state.loadNews,
-          currentPage: currentPage + 1
+          currentPage: Math.round(currentPage + 1)
         });
       }
 
-      if (this.props[newsType].articles.length > 0) {
+      if (this.props[newsType].articles.length >= 9) {
         const { articles } = this.props[newsType];
 
         this.setState({
           ...this.state,
-          currentPage: articles.length / 9
+          currentPage: Math.ceil(articles.length / 9)
         });
       }
 
@@ -89,7 +90,7 @@ export default function(
 
     render() {
       // console.log("[HOC - subscription]");
-      console.log("[HOC - subscription]", this.props);
+      // console.log("[HOC - subscription]", this.props);
       // console.log("[HOC - subscription]", this.props[newsType]);
       // console.log("[HOC - subscription]", this.props[newsType].articles);
       return (

@@ -11,7 +11,7 @@ import Advertisment from "./Advertisment";
 
 class RecentPosts extends Component {
   componentDidMount() {
-    console.log("[RECENT POSTS component]");
+    // console.log("[RECENT POSTS component]");
     const { recentPosts, loadRecentPosts } = this.props;
     if (recentPosts.length === 0) {
       loadRecentPosts();
@@ -19,9 +19,12 @@ class RecentPosts extends Component {
   }
 
   render() {
+    console.log("[RECENT POSTS] -- props", this.props);
     const { recentPosts } = this.props;
     const RecentPosts = recentPosts.map((post, i) => (
-      <ArticleRecentPostsTitle key={i}>{post}</ArticleRecentPostsTitle>
+      <ArticleRecentPostsTitle key={post._id}>
+        {post.text}
+      </ArticleRecentPostsTitle>
     ));
     return (
       <ArticleRecentPostsWrapper>

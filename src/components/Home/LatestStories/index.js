@@ -6,10 +6,6 @@ import ArticleCard from "./ArticleCard";
 import actions from "../../../reducer/actionTypes";
 
 class LatestStories extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   componentDidMount() {
     console.log("latest_news", this.props);
     if (this.props.latestStories.length === 0) {
@@ -18,15 +14,18 @@ class LatestStories extends Component {
   }
 
   render() {
+    console.log("[HOME - LATEST Stories -index.js] --- props", this.props);
     const Articles = this.props.latestStories.map(article => (
       <ArticleCard
         key={article._id}
+        id={article._id}
         image={article.mainImage}
         text={article.text}
         author={article.author}
         comments={article.comments}
-        date={article.date}
-        // date={article.createdAt.toLocaleString()}
+        // date={article.date}
+        category={article.category}
+        date={article.createdAt}
       />
     ));
 

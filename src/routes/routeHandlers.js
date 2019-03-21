@@ -74,14 +74,27 @@ export const loadNews = async (req, res, next) => {
 export const loadRecentNewsTitles = async (req, res, next) => {
   try {
     const recentNewsTitles = await Article.find({})
+      .select("text")
       .sort({ createdAt: -1 })
-      .limit(4)
-      .map(article => article.text);
+      .limit(4);
 
     return res.status(200).json(recentNewsTitles);
   } catch (error) {
-    console.log("[ROUTE HANDLERS - load recent news] __", error);
+    console.log("[ROUTE HANDLERS catch - load recent news] __", error);
 
-    return res.statsu(500).json(error);
+    return res.status(500).json(error);
+  }
+};
+
+export const findArticle = async (req, res, next) => {
+  try {
+    const { id } = req.params;
+
+    const article = await Article.findById(id);
+
+    return res.status(200).json(article);
+  } catch (error) {
+    console.log("[ROUTE HANDLERS catch - find article", error);
+    return res.status(500).json(error);
   }
 };

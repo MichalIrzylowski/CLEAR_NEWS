@@ -124,6 +124,8 @@ function* loadRecentNewsTitles() {
       const path = "/api/recent_news_titles";
       const response = yield call(api, "get", path);
 
+      console.log("[loadRecentNewsTitles - saga] -- response", response);
+
       yield put({
         type: action.LOAD_RECENT_POSTS_SUCCESS,
         payload: response.data
@@ -143,6 +145,31 @@ function* loadRecentNewsTitles() {
   }
 }
 
+function* loadArticle() {
+  while (true) {
+    const request = yield take(action.ARTICLE_REQUEST);
+    try {
+      const { id } = request;
+      const path = `/api/find_article/${id}`;
+
+      const response = yield call(api, "get", path);
+
+      console.log("[SAGA] -- load article success - response", response);
+
+      yield put({
+        type:
+          action.LOAD_NEWS_SUCCESS +
+          "-" +
+          response.data.category.toUpperCase() +
+          "_NEWS",
+        payload: response.data
+      });
+    } catch (error) {
+      console.log("[SAGA] -- load article error", error);
+    }
+  }
+}
+
 export default function* rootSaga() {
   yield fork(loadLatestStories);
   yield fork(loadInPictures);
@@ -150,4 +177,5 @@ export default function* rootSaga() {
   yield fork(loadHealthNews);
   yield fork(loadNews);
   yield fork(loadRecentNewsTitles);
+  yield fork(loadArticle);
 }

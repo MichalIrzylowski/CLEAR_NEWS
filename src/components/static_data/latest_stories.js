@@ -70,7 +70,59 @@ export const ArticlesData = [
           "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
       }
     ],
-    howMuchTimeAgo: "5 months ago",
+
+    views: 2542,
+    shares: 50,
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
     views: 2542,
     shares: 50
   },
@@ -88,7 +140,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "random"
+    category: "random",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -104,7 +208,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "random"
+    category: "random",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -119,7 +275,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "random"
+    category: "random",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -135,7 +343,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "random"
+    category: "random",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -151,7 +411,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "random"
+    category: "random",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -167,7 +479,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "economy"
+    category: "economy",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -183,7 +547,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "economy"
+    category: "economy",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -199,7 +615,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "economy"
+    category: "economy",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -215,7 +683,59 @@ export const ArticlesData = [
     },
     comments: 12,
     date: "09-02-2018",
-    category: "economy"
+    category: "economy",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     text:
@@ -279,7 +799,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -295,7 +866,58 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -311,7 +933,58 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -326,7 +999,58 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -342,7 +1066,58 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -358,7 +1133,58 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -374,7 +1200,58 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -390,7 +1267,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -406,7 +1334,58 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -422,7 +1401,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -438,7 +1468,58 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -454,7 +1535,58 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -470,7 +1602,58 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -486,7 +1669,58 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -502,7 +1736,58 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -518,7 +1803,58 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -534,7 +1870,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -550,7 +1937,58 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "culture"
+    category: "culture",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -566,7 +2004,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -582,7 +2072,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -598,7 +2140,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -614,7 +2208,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -630,7 +2276,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -646,7 +2344,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -662,7 +2412,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -678,7 +2480,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -694,7 +2548,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -710,7 +2616,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -726,7 +2684,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -742,7 +2752,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -758,7 +2820,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -774,7 +2888,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -790,7 +2956,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -806,7 +3024,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -822,7 +3092,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -838,7 +3160,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "entertainment"
+    category: "entertainment",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585555/clear_news/entertainmentBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -854,7 +3228,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -870,7 +3296,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -886,7 +3364,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -901,7 +3431,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -917,7 +3499,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -933,7 +3567,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -949,7 +3635,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -965,7 +3703,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -981,7 +3771,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -997,7 +3839,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1013,7 +3907,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1029,7 +3975,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1045,7 +4043,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1061,7 +4111,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1077,7 +4179,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1093,7 +4247,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1109,7 +4315,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1125,7 +4383,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "politics"
+    category: "politics",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585178/clear_news/politicsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1141,7 +4451,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1157,7 +4519,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1173,7 +4587,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1188,7 +4654,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1204,7 +4722,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1220,7 +4790,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1236,7 +4858,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1252,7 +4926,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1268,7 +4994,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1284,7 +5062,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1300,7 +5130,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1316,7 +5198,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1332,7 +5266,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1348,7 +5334,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1364,7 +5402,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1380,7 +5470,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1396,7 +5538,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1412,7 +5606,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "sports"
+    category: "sports",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1552585790/clear_news/sportsBackground.jpg",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1428,7 +5674,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1444,7 +5742,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1460,7 +5810,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1475,7 +5877,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1491,7 +5945,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1507,7 +6013,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1523,7 +6081,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1539,7 +6149,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1555,7 +6217,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1571,7 +6285,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1587,7 +6353,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1603,7 +6421,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1619,7 +6489,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1635,7 +6557,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1651,7 +6625,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1667,7 +6693,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1683,7 +6761,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1699,7 +6829,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "worldwide"
+    category: "worldwide",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1715,7 +6897,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1731,7 +6965,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1747,7 +7033,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1762,7 +7100,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1778,7 +7168,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1794,7 +7236,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1810,7 +7304,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1826,7 +7372,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1842,7 +7440,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1858,7 +7508,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1874,7 +7576,59 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1890,7 +7644,59 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1906,7 +7712,59 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1922,7 +7780,59 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1938,7 +7848,59 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1954,7 +7916,59 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1970,7 +7984,59 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -1986,7 +8052,59 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "innovation"
+    category: "innovation",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542,
+    shares: 50
   },
   {
     mainImage:
@@ -2002,7 +8120,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2018,7 +8187,58 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2034,7 +8254,58 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2049,7 +8320,58 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2065,7 +8387,58 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2081,7 +8454,58 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2097,7 +8521,58 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2113,7 +8588,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2129,7 +8655,58 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2145,7 +8722,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "14-02-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2161,7 +8789,58 @@ export const ArticlesData = [
     },
     comments: 38,
     date: "08-02-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2177,7 +8856,58 @@ export const ArticlesData = [
     },
     comments: 46,
     date: "28-01-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2193,7 +8923,58 @@ export const ArticlesData = [
     },
     comments: 22,
     date: "08-01-2017",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2209,7 +8990,58 @@ export const ArticlesData = [
     },
     comments: 26,
     date: "22-12-2016",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2225,7 +9057,58 @@ export const ArticlesData = [
     },
     comments: 31,
     date: "11-12-2016",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2241,7 +9124,58 @@ export const ArticlesData = [
     },
     comments: 32,
     date: "14-02-2018",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2257,7 +9191,58 @@ export const ArticlesData = [
     },
     comments: 45,
     date: "12-02-2018",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   },
   {
     mainImage:
@@ -2273,6 +9258,57 @@ export const ArticlesData = [
     },
     comments: 33,
     date: "11-02-2018",
-    category: "education"
+    category: "education",
+    backgroundImage:
+      "https://res.cloudinary.com/dlxsuuger/image/upload/v1551459024/clear_news/BumBackground.png",
+    header: [
+      "Ladies others the six desire age. Bred am soon park past read by lain. As excuse eldest no moment.",
+      "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among."
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Advanced extended doubtful he he blessing together. Introduced far law gay considered frequently entreaties difficulty. Eat him four are rich nor calm. By an packages rejoiced exercise. To ought on am marry rooms doubt music. Mention entered an through com"
+      },
+      {
+        type: "paragraph",
+        text:
+          "Good draw knew bred ham busy his hour. Ask agreed answer rather joy nature admire wisdom. Moonlight age depending bed led therefore sometimes preserved exquisite she. An fail up so shot leaf wise in. Minuter highest his arrived for put and. Hopes lived by rooms oh in no death house. Contented direction september but end led excellent ourselves may. Ferrars few arrival his offered not charmed you. Offered anxious respect or he. On three thing chief years in money arise of. "
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance."
+      },
+      {
+        type: "paragraph",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs. Genius or so up vanity cannot. Large do tried going about water defer by. Silent son man she wished mother. Distrusts allowance do knowledge eagerness assurance additions to."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "quote",
+        author: "Quote Author",
+        text:
+          "Is branched in my up strictly remember. Songs but chief has ham widow downs."
+      },
+      {
+        type: "paragraph",
+        text:
+          "On projection apartments unsatiable so if he entreaties appearance. Rose you wife how set lady half wish. Hard sing an in true felt. Welcomed stronger if steepest ecstatic an suitable finished of oh. Entered at excited at forming between so produce. Chicken unknown besides attacks gay compact out you. Continuing no simplicity no favourable on reasonably melancholy estimating. Own hence views two ask right whole ten seems. What near kept met call old west dine. Our announcing sufficient why pianoforte."
+      },
+      {
+        type: "paragraph",
+        text:
+          "In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new. At or happiness commanded daughters as. Is handsome an declared at received in extended vicinity subjects. Into miss on he over been late pain an. Only week bore boy what fat case left use. Match round scale now sex style far times. Your me past an much. "
+      }
+    ],
+
+    views: 2542
   }
 ];

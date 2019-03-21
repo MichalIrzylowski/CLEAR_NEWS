@@ -29,21 +29,25 @@ class BottomCategories extends Component {
     const economyArticles = this.props.economyNews.map(economySpot => (
       <ArticleCard
         key={economySpot._id}
+        id={economySpot._id}
         image={economySpot.mainImage}
         text={economySpot.text}
         author={economySpot.author}
         comments={economySpot.comments}
         date={economySpot.date} // date={economySpot.createdAt.toLocaleString()}
+        category={economySpot.category}
       />
     ));
 
     const healthArticles = this.props.healthNews.map(healthSpot => (
       <ArticleCard
         key={healthSpot._id}
+        id={healthSpot._id}
         text={healthSpot.text}
         author={healthSpot.author}
         comments={healthSpot.comments}
         date={healthSpot.date} // date={economySpot.createdAt.toLocaleString()}
+        category={healthSpot.category}
         abstract={healthSpot.abstract}
         health
       />
